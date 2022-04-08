@@ -10,6 +10,15 @@ code {
     monospace;
 }
 
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
 // @font-face {
 //   font-family: 'Open Sans Condensed';
 //   src: local('OpenSans-CondLight'), url(./fonts/OpenSans-CondLight.ttf) format('truetype');
